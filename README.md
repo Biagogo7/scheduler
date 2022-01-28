@@ -1,4 +1,4 @@
-# Interview Scheduler
+# Interview Scheduler by Adeyemi Atayero
 
 ## Setup
 
