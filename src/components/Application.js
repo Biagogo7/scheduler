@@ -20,7 +20,7 @@ export default function Application(props) {
     cancelInterview
   } = useApplicationData();
 
- 
+
 
   const dailyInterviewers = getInterviewersForDay(state, state.day);
 
